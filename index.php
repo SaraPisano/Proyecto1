@@ -11,7 +11,8 @@ and open the template in the editor.
     </head>
     <body>
 	<?php
-	echo "Primera línea del proyecto";
+	echo "Primera línea del proyecto <br/>";
+	echo "Segundo commit";
 	?>
     </body>
 </html>
