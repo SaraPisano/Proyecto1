@@ -13,6 +13,7 @@ and open the template in the editor.
 	<?php
 	echo "Primera línea del proyecto";
 	echo "Hasta aquí la version 1.0";
+	echo "Version 2.0 en rama master";
 	?>
     </body>
 </html>
