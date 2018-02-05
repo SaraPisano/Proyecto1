@@ -13,6 +13,7 @@ and open the template in the editor.
 	<?php
 	echo "Primera línea del proyecto <br/>";
 	echo "Segundo commit";
+	echo "Tercera línea. Tercer commit";
 	?>
     </body>
 </html>
